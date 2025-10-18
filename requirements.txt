@@ -1,0 +1,5 @@
+instaloader
+transformers
+torch
+pandas
+tqdm
